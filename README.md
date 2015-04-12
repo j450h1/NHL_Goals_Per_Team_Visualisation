@@ -7,8 +7,6 @@ Mini-Project 1: Raw Visualization - Data Analyst Nanodegree
 
 3. Import the csv file into R and clean it up.
 
-4. Export the dataframe into a csv file called NHL_clean.csv
-
-5. Import the csv and create a visualisation to show total goals per team 2014-2015 Season to Date.
+4. Use ggplot2 to create an appropriate visualisation to show total goals per team 2014-2015 Season to Date.
 
 
