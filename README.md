@@ -10,6 +10,6 @@ Mini-Project 1: Raw Visualization - Data Analyst Nanodegree
 4. Use ggplot2 to create an appropriate visualisation to show total goals per team 2014-2015 Season to Date.
 
 
-![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+![](https://github.com/j450h1/NHL_Goals_Per_Team_Visualisation/blob/master/goals_barchart.jpeg)
 
 
