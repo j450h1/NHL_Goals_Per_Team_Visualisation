@@ -12,4 +12,6 @@ Mini-Project 1: Raw Visualization - Data Analyst Nanodegree
 
 ![](https://github.com/j450h1/NHL_Goals_Per_Team_Visualisation/blob/master/goals_barchart.jpeg)
 
+My home team (the Vancouver Canucks) will be facing the Calgary Flames in the 1st round of the NHL Playoffs. Looks like it could be a close series if we look at Goals Against. Vancouver has the edge of course being the 12th best team in scoring for the 2014-2015 season.
+
 
